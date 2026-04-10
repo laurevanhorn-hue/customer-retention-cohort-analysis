@@ -1,5 +1,7 @@
 # Customer Retention & Cohort Analysis
 
+Built as a production-style analytics project demonstrating retention analysis, cohort modeling, and business decision support.
+
 ## Executive Summary
 
 Customer retention is highly front-loaded: most customers drop off after their first purchase, while a smaller high-value segment drives repeat behavior and long-term revenue.
